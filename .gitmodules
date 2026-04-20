@@ -1,0 +1,3 @@
+[submodule "build/aiaooo_ue5"]
+	path = build/aiaooo_ue5
+	url = git@github.com:Guilhem-42/aiaooo_ue5.git
